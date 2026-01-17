@@ -1,5 +1,5 @@
 name: task_flow
-description: "A new Flutter project."
+description: "TaskFlow – A cross-platform task management application."
 
 # Prevent accidental publishing to pub.dev
 publish_to: 'none'
