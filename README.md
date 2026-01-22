@@ -1,4 +1,4 @@
-# TaskFlow – Flutter Frontend
+# TaskFlow – Flutter Frontend - Windows App
 
 TaskFlow is a cross-platform task management application built using **Flutter**, designed to help users organize tasks efficiently with a clean and modern UI.
 
@@ -67,6 +67,7 @@ https://github.com/yogitha-maheswari/TaskFlow-Backend
 ```bash
 flutter pub get
 flutter run
+```
 
 
 
