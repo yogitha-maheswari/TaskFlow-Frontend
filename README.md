@@ -2,7 +2,7 @@
 
 TaskFlow is a cross-platform task management application built using **Flutter**, designed to help users organize tasks efficiently with a clean and modern UI.
 
-This repository contains the **frontend** of the TaskFlow application, supporting **Windows desktop** and **Android** platforms.
+This repository contains the **frontend** of the TaskFlow application, supporting **Windows desktop** platform.
 
 ---
 
